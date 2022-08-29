@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/thread_pool/demo-base/demo-base.iml" filepath="$PROJECT_DIR$/thread_pool/demo-base/demo-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_rules/demo-base/demo-base (1).iml" filepath="$PROJECT_DIR$/routing_rules/demo-base/demo-base (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_online/demo-base/demo-base (2).iml" filepath="$PROJECT_DIR$/routing_online/demo-base/demo-base (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/load_balance/demo-base/demo-base (3).iml" filepath="$PROJECT_DIR$/load_balance/demo-base/demo-base (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base/demo-base (4).iml" filepath="$PROJECT_DIR$/demo-base/demo-base (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/async_call/demo-base/demo-base (5).iml" filepath="$PROJECT_DIR$/async_call/demo-base/demo-base (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base-xml/demo-base-xml.iml" filepath="$PROJECT_DIR$/demo-base-xml/demo-base-xml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dubbo.iml" filepath="$PROJECT_DIR$/.idea/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/load_balance/demo-base/dubbo-spi-loadbalance/dubbo-spi-loadbalance.iml" filepath="$PROJECT_DIR$/load_balance/demo-base/dubbo-spi-loadbalance/dubbo-spi-loadbalance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo.iml" filepath="$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo_api/dubbo_spi_demo_api.iml" filepath="$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo_api/dubbo_spi_demo_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo_impl/dubbo_spi_demo_impl.iml" filepath="$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo_impl/dubbo_spi_demo_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo_main/dubbo_spi_demo_main.iml" filepath="$PROJECT_DIR$/dubbo_spi_demo/dubbo_spi_demo_main/dubbo_spi_demo_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo_spi_filter/dubbo_spi_filter.iml" filepath="$PROJECT_DIR$/dubbo_spi_filter/dubbo_spi_filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_online/demo-base/dubbo_spi_router/dubbo_spi_router.iml" filepath="$PROJECT_DIR$/routing_online/demo-base/dubbo_spi_router/dubbo_spi_router.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_pool/demo-base/dubbo_spi_threadpool/dubbo_spi_threadpool.iml" filepath="$PROJECT_DIR$/thread_pool/demo-base/dubbo_spi_threadpool/dubbo_spi_threadpool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_spi_demo/java_spi_demo.iml" filepath="$PROJECT_DIR$/java_spi_demo/java_spi_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_spi_demo/java_spi_demo_api/java_spi_demo_api.iml" filepath="$PROJECT_DIR$/java_spi_demo/java_spi_demo_api/java_spi_demo_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_spi_demo/java_spi_demo_impl/java_spi_demo_impl.iml" filepath="$PROJECT_DIR$/java_spi_demo/java_spi_demo_impl/java_spi_demo_impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_spi_demo/java_spi_demo_main/java_spi_demo_main.iml" filepath="$PROJECT_DIR$/java_spi_demo/java_spi_demo_main/java_spi_demo_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_pool/demo-base/service-api/service-api.iml" filepath="$PROJECT_DIR$/thread_pool/demo-base/service-api/service-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_rules/demo-base/service-api/service-api (1).iml" filepath="$PROJECT_DIR$/routing_rules/demo-base/service-api/service-api (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_online/demo-base/service-api/service-api (2).iml" filepath="$PROJECT_DIR$/routing_online/demo-base/service-api/service-api (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/load_balance/demo-base/service-api/service-api (3).iml" filepath="$PROJECT_DIR$/load_balance/demo-base/service-api/service-api (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base-xml/service-api/service-api (4).iml" filepath="$PROJECT_DIR$/demo-base-xml/service-api/service-api (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base/service-api/service-api (5).iml" filepath="$PROJECT_DIR$/demo-base/service-api/service-api (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/async_call/demo-base/service-api/service-api (6).iml" filepath="$PROJECT_DIR$/async_call/demo-base/service-api/service-api (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_pool/demo-base/service-consumer/service-consumer.iml" filepath="$PROJECT_DIR$/thread_pool/demo-base/service-consumer/service-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_rules/demo-base/service-consumer/service-consumer (1).iml" filepath="$PROJECT_DIR$/routing_rules/demo-base/service-consumer/service-consumer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_online/demo-base/service-consumer/service-consumer (2).iml" filepath="$PROJECT_DIR$/routing_online/demo-base/service-consumer/service-consumer (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/load_balance/demo-base/service-consumer/service-consumer (3).iml" filepath="$PROJECT_DIR$/load_balance/demo-base/service-consumer/service-consumer (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base-xml/service-consumer/service-consumer (4).iml" filepath="$PROJECT_DIR$/demo-base-xml/service-consumer/service-consumer (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base/service-consumer/service-consumer (5).iml" filepath="$PROJECT_DIR$/demo-base/service-consumer/service-consumer (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/async_call/demo-base/service-consumer/service-consumer (6).iml" filepath="$PROJECT_DIR$/async_call/demo-base/service-consumer/service-consumer (6).iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread_pool/demo-base/service-provider/service-provider.iml" filepath="$PROJECT_DIR$/thread_pool/demo-base/service-provider/service-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_rules/demo-base/service-provider/service-provider (1).iml" filepath="$PROJECT_DIR$/routing_rules/demo-base/service-provider/service-provider (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/routing_online/demo-base/service-provider/service-provider (2).iml" filepath="$PROJECT_DIR$/routing_online/demo-base/service-provider/service-provider (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/load_balance/demo-base/service-provider/service-provider (3).iml" filepath="$PROJECT_DIR$/load_balance/demo-base/service-provider/service-provider (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base-xml/service-provider/service-provider (4).iml" filepath="$PROJECT_DIR$/demo-base-xml/service-provider/service-provider (4).iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-base/service-provider/service-provider (5).iml" filepath="$PROJECT_DIR$/demo-base/service-provider/service-provider (5).iml" />
+      <module fileurl="file://$PROJECT_DIR$/async_call/demo-base/service-provider/service-provider (6).iml" filepath="$PROJECT_DIR$/async_call/demo-base/service-provider/service-provider (6).iml" />
+    </modules>
+  </component>
+</project>

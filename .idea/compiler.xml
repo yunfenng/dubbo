@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-consumer (1)" />
+        <module name="service-consumer (3)" />
+        <module name="service-consumer (5)" />
+        <module name="dubbo_spi_threadpool" />
+        <module name="service-api (2)" />
+        <module name="java_spi_demo_impl" />
+        <module name="dubbo_spi_router" />
+        <module name="service-provider (4)" />
+        <module name="service-provider (6)" />
+        <module name="service-api (5)" />
+        <module name="service-provider (2)" />
+        <module name="dubbo_spi_demo_main" />
+        <module name="java_spi_demo_main" />
+        <module name="dubbo_spi_demo_api" />
+        <module name="dubbo-spi-loadbalance" />
+        <module name="service-consumer (2)" />
+        <module name="service-api (1)" />
+        <module name="service-consumer (4)" />
+        <module name="service-api (3)" />
+        <module name="service-consumer (6)" />
+        <module name="dubbo_spi_demo_impl" />
+        <module name="java_spi_demo_api" />
+        <module name="service-provider (3)" />
+        <module name="dubbo_spi_filter" />
+        <module name="service-provider (5)" />
+        <module name="service-api (4)" />
+        <module name="service-consumer" />
+        <module name="service-provider" />
+        <module name="service-api (6)" />
+        <module name="service-provider (1)" />
+        <module name="service-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-base" target="1.8" />
+      <module name="demo-base (1)" target="1.8" />
+      <module name="demo-base (2)" target="1.8" />
+      <module name="demo-base (3)" target="1.8" />
+      <module name="demo-base (4)" target="1.8" />
+      <module name="demo-base (5)" target="1.8" />
+      <module name="demo-base-xml" target="1.8" />
+      <module name="dubbo-spi-loadbalance" target="1.8" />
+      <module name="dubbo_spi_demo" target="11" />
+      <module name="dubbo_spi_demo_api" target="11" />
+      <module name="dubbo_spi_demo_impl" target="11" />
+      <module name="dubbo_spi_demo_main" target="11" />
+      <module name="dubbo_spi_filter" target="11" />
+      <module name="dubbo_spi_router" target="1.8" />
+      <module name="dubbo_spi_threadpool" target="1.8" />
+      <module name="java_spi_demo" target="11" />
+      <module name="java_spi_demo_api" target="11" />
+      <module name="java_spi_demo_impl" target="11" />
+      <module name="java_spi_demo_main" target="11" />
+      <module name="service-api" target="1.8" />
+      <module name="service-api (1)" target="1.8" />
+      <module name="service-api (2)" target="1.8" />
+      <module name="service-api (3)" target="1.8" />
+      <module name="service-api (4)" target="1.8" />
+      <module name="service-api (5)" target="1.8" />
+      <module name="service-api (6)" target="1.8" />
+      <module name="service-consumer" target="1.8" />
+      <module name="service-consumer (1)" target="1.8" />
+      <module name="service-consumer (2)" target="1.8" />
+      <module name="service-consumer (3)" target="1.8" />
+      <module name="service-consumer (4)" target="1.8" />
+      <module name="service-consumer (5)" target="1.8" />
+      <module name="service-consumer (6)" target="1.8" />
+      <module name="service-provider" target="1.8" />
+      <module name="service-provider (1)" target="1.8" />
+      <module name="service-provider (2)" target="1.8" />
+      <module name="service-provider (3)" target="1.8" />
+      <module name="service-provider (4)" target="1.8" />
+      <module name="service-provider (5)" target="1.8" />
+      <module name="service-provider (6)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,1 @@
+restartInstances=com.lagou.router.RestartingInstanceRouterFactory

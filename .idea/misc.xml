@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/thread_pool/demo-base/pom.xml" />
+        <option value="$PROJECT_DIR$/routing_rules/demo-base/pom.xml" />
+        <option value="$PROJECT_DIR$/routing_online/demo-base/pom.xml" />
+        <option value="$PROJECT_DIR$/load_balance/demo-base/pom.xml" />
+        <option value="$PROJECT_DIR$/java_spi_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo_spi_filter/pom.xml" />
+        <option value="$PROJECT_DIR$/dubbo_spi_demo/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-base-xml/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-base/pom.xml" />
+        <option value="$PROJECT_DIR$/async_call/demo-base/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
